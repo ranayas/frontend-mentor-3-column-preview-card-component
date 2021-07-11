@@ -1,0 +1,7 @@
+.main {
+  padding-top: 14rem;
+}
+
+.cards-container {
+  flex-direction: row;
+}
